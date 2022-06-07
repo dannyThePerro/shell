@@ -1,2 +1,2 @@
 #!/bin/bash
-$ export CDPATH=".:/tmp/action
+export CDPATH=".:/tmp/action
