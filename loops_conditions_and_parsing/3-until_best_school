@@ -1,9 +1,8 @@
 #!/usr/bin/env bash
 # This script is displaying "Best School" 10 times
 num1=0
-num2=9
-until ((num1 -lt num2))
+until ((num1<=9))
 do
 echo "Best School"
-let num1=num1+1
+((num1++))
 done
