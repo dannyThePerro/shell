@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
 # This script is displaying "Best School" 10 times
 num=0
-while (($num;$num<=9;$++))
+while ((num<=9))
 do
-echo "Best School"
+    echo "Best School"
+    ((num++))
 done
