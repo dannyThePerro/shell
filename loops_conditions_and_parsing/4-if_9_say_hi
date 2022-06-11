@@ -2,11 +2,11 @@
 # This script is displaying "Best School" 10 times
 num=0
 
-while ((num<=10))
+while ((num<=9))
 do
 echo "Best School"
 ((num++))
-if ((num<=8)) then
+if ((num<=7)) then
 echo "Hi"
 fi
 done
