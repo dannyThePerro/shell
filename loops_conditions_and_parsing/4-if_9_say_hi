@@ -6,7 +6,7 @@ while ((num<=9))
 do
 echo "Best School"
 ((num++))
-if ((num<=7)) then
+if ((num<=8)) then
 echo "Hi"
 fi
 done
