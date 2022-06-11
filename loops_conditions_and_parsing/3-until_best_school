@@ -4,5 +4,5 @@ num1=9
 until ((num1<=0))
 do
 echo "Best School"
-let num1=num1++
+let num1=num1--
 done
